@@ -1,3 +1,4 @@
+![logo](https://github.com/Parimal-Pradhan/parimal-pradhan/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parimal Pradhan</h1>
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
 
